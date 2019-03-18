@@ -2,9 +2,9 @@
 
 This repo is a branch of my GMLsnip project. This is the official GMLsnip Google Chrome Extension/Mozilla Firefox Addon repo.
 
-[GMLsnip addon promo 0](https://github.com/zbanack/GMLsnip-Addon/blob/master/promo/img0.png?raw=true)
-[GMLsnip addon promo 1](https://github.com/zbanack/GMLsnip-Addon/blob/master/promo/img1.png?raw=true)
-[GMLsnip addon promo 2](https://github.com/zbanack/GMLsnip-Addon/blob/master/promo/img2.png?raw=true)
+![GMLsnip addon promo 0](https://github.com/zbanack/GMLsnip-Addon/blob/master/promo/img0.png?raw=true)
+![GMLsnip addon promo 1](https://github.com/zbanack/GMLsnip-Addon/blob/master/promo/img1.png?raw=true)
+![GMLsnip addon promo 2](https://github.com/zbanack/GMLsnip-Addon/blob/master/promo/img2.png?raw=true)
 
 
 ## About
