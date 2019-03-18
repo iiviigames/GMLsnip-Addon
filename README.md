@@ -1,4 +1,4 @@
-# GMLsnip-Addon
+# GMLsnip.com Browser Addon
 
 This repo is a branch of my [GMLsnip project](https://github.com/zbanack/GMLsnip). This is the official GMLsnip **[Google Chrome Extension](https://chrome.google.com/webstore/detail/ooagiaejlpeookdifcncgcdphmbhpfjn)** **[Mozilla Firefox Addon](https://addons.mozilla.org/en-US/developers/addon/gml-syntax-highlighter)** repo.
 
