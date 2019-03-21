@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"short_name": "GML",
 	"name": "GML Syntax Highlighter",
-	"version": "0.9.4",
+	"version": "0.9.6",
 	"description": "GameMaker syntax highlighting, pretty-printing, and docs-linking courtesy of GMLsnip.com",
 
 	"options_ui": {

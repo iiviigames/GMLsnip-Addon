@@ -19,6 +19,7 @@ function ready() {
         let gen = craft(blocks[i], false);
         blocks[i].innerHTML = gen.return_html;
     }
+
     // TODO, better handling of <pre> tag removal
     document.body.innerHTML = document.body.innerHTML.replace(/<pre[\s\S]*?>/g,
         '<div>').replace(/<\/pre>/g, '</div>');
@@ -74,5 +75,6 @@ function pull_opts() {
         _check_hyperlink = items.check_hyperlink;
         _check_tooltips = items.check_tooltips;
         ready();
+        gz_copy_refr();
     });
 }
