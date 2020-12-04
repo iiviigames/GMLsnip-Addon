@@ -1,5 +1,5 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"short_name": "GML",
 	"name": "GML Syntax Highlighter",
 	"version": "0.9.6",
@@ -27,7 +27,7 @@
 
 	"content_scripts": [{
 		"js": ["js/content.js", "js/gml_snip.js", "js/docs.js", "js/gml_syntax.js"],
-		"matches": ["https://*.reddit.com/r/gamemaker/*", "https://forum.yoyogames.com/*", "https://docs2.yoyogames.com/*", "https://docs.yoyogames.com/*"],
+		"matches": ["https://*.yoyogames.com/*", "https://manual-en.yoyogames.com/*", "https://*.reddit.com/r/gamemaker/*", "https://forum.yoyogames.com/*", "https://docs2.yoyogames.com/*", "https://docs.yoyogames.com/*"],
 		"all_frames": true
 	}],
 
