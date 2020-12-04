@@ -1,9 +1,9 @@
 {
 	"manifest_version": 3,
-	"short_name": "GML",
-	"name": "GML Syntax Highlighter",
+	"short_name": "iGML",
+	"name": "iiviiGML",
 	"version": "0.9.6",
-	"description": "GameMaker syntax highlighting, pretty-printing, and docs-linking courtesy of GMLsnip.com",
+	"description": "GameMaker syntax highlighting, pretty-printing, and docs-linking courtesy - FORKED FROM - GMLsnip.com",
 
 	"options_ui": {
 	    "page": "options.html",
@@ -16,7 +16,7 @@
 
   "applications": {
       "gecko": {
-        "id": "gmlsnip@iiviigames",
+        "id": "iiviiGML@iiviigames",
         "strict_min_version": "53.0"
       }
     },
